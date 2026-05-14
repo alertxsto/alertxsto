@@ -311,6 +311,7 @@ const achievements = {
 I'm always excited to collaborate on innovative projects or discuss cutting-edge web technologies!
 ## Recent Achievements
 <!-- ACHIEVEMENTS_START -->
+- **14 Mei 2026** — [General] Tested webhook integration in kydev to ensure reliable event delivery and reduce missed notifications during external service integrations. · [`kydev`](https://github.com/alertxsto/kydev)
 - **14 Mei 2026** — Commit ini tidak menyertakan pesan atau daftar file yang diubah/ditambahkan, sehingga tidak ada perubahan teknis yang dapat dievaluasi.
 - **14 Mei 2026** — Commit contains no message or file details, so the technical impact cannot be determined.
 - **14 Mei 2026** — Applied repository updates; commit message and metadata were empty, so the technical impact cannot be determined.
