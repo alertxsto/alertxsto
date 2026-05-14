@@ -311,6 +311,7 @@ const achievements = {
 I'm always excited to collaborate on innovative projects or discuss cutting-edge web technologies!
 ## Recent Achievements
 <!-- ACHIEVEMENTS_START -->
+- **14 Mei 2026** — [Frontend] Redesigned Command Center layout and added Topbar in kydev v0.8.8, unifying navigation and enabling faster access to core features. · [`kydev`](https://github.com/alertxsto/kydev)
 - **14 Mei 2026** — Tidak ada perubahan file yang terdeteksi dalam commit ini sehingga tidak ada dampak teknis yang tercatat. Silakan kirim detail file atau pesan commit bila ingin ringkasan capaian teknis.
 - **14 Mei 2026** — [General] Tested webhook integration in kydev to ensure reliable event delivery and reduce missed notifications during external service integrations. · [`kydev`](https://github.com/alertxsto/kydev)
 - **14 Mei 2026** — Commit ini tidak menyertakan pesan atau daftar file yang diubah/ditambahkan, sehingga tidak ada perubahan teknis yang dapat dievaluasi.
